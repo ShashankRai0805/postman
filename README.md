@@ -1,2 +1,2 @@
 # test
-this is a basic git repo
+this is a basic GIT repo
